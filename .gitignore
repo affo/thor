@@ -1,0 +1,9 @@
+.idea
+__pycache__
+.thor-repl_history
+
+*.pyc
+*.jar
+venv
+
+generated
